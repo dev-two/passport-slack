@@ -8,7 +8,7 @@ Updated to support Sign in with Slack by default.<br>
 
 ## Notice
 
-This is fixed version of abandoned package [`passport-slack`](mjpearson/passport-slack) by @mjpearson
+This is fixed version of abandoned package [`passport-slack`](https://github.com/mjpearson/passport-slack) by @mjpearson
 
 ## Install
 ```shell
