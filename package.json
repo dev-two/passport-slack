@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mjpearson/passport-slack.git"
+    "url": "git://github.com/dev-two/passport-slack.git"
   },
   "bugs": {
-    "url": "http://github.com/mjpearson/passport-slack/issues"
+    "url": "http://github.com/dev-two/passport-slack/issues"
   },
   "licenses": [
     {
